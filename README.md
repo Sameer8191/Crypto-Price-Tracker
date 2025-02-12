@@ -13,6 +13,7 @@ A simple web application that tracks cryptocurrency prices in real-time.
 - API for live data (e.g., CoinGecko, Binance)
 
 ## How to Run
+```sh
 - git clone https://github.com/Sameer8191/Crypto-Price-Tracker.git
 - cd Crypto-Price-Tracker
 - npm install
