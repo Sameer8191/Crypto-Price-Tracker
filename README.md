@@ -2,6 +2,11 @@
 
 **A simple web application that tracks cryptocurrency prices in real-time.**
 
+Samples
+
+![Sample USD](https://github.com/Sameer8191/Crypto-Price-Tracker/raw/main/Sample_images/Sample_usd.jpg)
+
+
 ## Features
 - Fetches live crypto prices.
 - Displays price changes dynamically.
@@ -17,4 +22,5 @@
 - git clone https://github.com/Sameer8191/Crypto-Price-Tracker.git
 - cd Crypto-Price-Tracker
 - npm install
-- npm run dev
+- npm run dev.
+
