@@ -4,7 +4,7 @@
 
 Samples
 
-![Sample USD](https://github.com/Sameer8191/Crypto-Price-Tracker/Sample_images/Sample_usd.png)
+![Sample USD](https://github.com/Sameer8191/Crypto-Price-Tracker/tree/main/Sample_images/Sample_usd_1)
 
 
 ## Features
