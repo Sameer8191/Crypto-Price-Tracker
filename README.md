@@ -1,6 +1,6 @@
- Crypto Price Tracker
+# **Crypto Price Tracker**
 
-A simple web application that tracks cryptocurrency prices in real-time.
+**A simple web application that tracks cryptocurrency prices in real-time.**
 
 ## Features
 - Fetches live crypto prices.
@@ -9,8 +9,8 @@ A simple web application that tracks cryptocurrency prices in real-time.
 
 ## Technologies Used
 - HTML, CSS, JavaScript
-- React.js (if applicable)
-- API for live data (e.g., CoinGecko, Binance)
+- React.js
+- API for live data (CoinGecko)
 
 ## How to Run
 ```sh
